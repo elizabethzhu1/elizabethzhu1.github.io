@@ -1,6 +1,6 @@
 ---
 title: Why Philosophy
-date: 2022/12/28
+date: 2022/12/30
 description: Some thoughts on the value of philosophy.
 tag: philosophy
 author: You
